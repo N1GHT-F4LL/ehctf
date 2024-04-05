@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  TYPE: web
+  TYPE: web exploitation
   NAME: deser-plus
   REGISTRY: ghcr.io
 
