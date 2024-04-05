@@ -1,9 +1,5 @@
-FROM ghcr.io/n1ght-f4ll/ehctf/python:alpine
+FROM python:3.8-slim-buster
 
-# Install build dependencies
-RUN apk add --no-cache gcc musl-dev gmp-dev
-
-# Install Python packages
-RUN pip install --no-cache-dir -i https://pypi.org/simple/ gmpy2 pycryptodome
+RUN pip install --no-cache-dir gmpy2
 
 CMD ["sleep", "infinity"]
