@@ -18,7 +18,6 @@ VPN: [OpenVPN](https://openvpn.net/client/) and [VPN Profile](https://drive.goog
 - All challengs should follow the challenge specification of GZCTF. Dockerfile of the challenge should be placed to `challenges` directory.
 - For each challenge, please create a specific branch with name catagory/challenge_name and develop in that branch. Finally squash merge to `main`.
 - For those base images that can be shared and reused by different challengs, please place then in the `base` directory. For example, `xinetd`, `python`, `php`, etc.
-- Please open an issue to track the developing progress of a challenge if it’s necessary.
 
 ## Challenges Category
 
@@ -40,7 +39,7 @@ VPN: [OpenVPN](https://openvpn.net/client/) and [VPN Profile](https://drive.goog
 
 ## Challenges Type
 
-> Please tag the challenge with the corresponding type.
+> Please tag the challenge with the corresponding type. For Dynamic Challenges, please get flag from the `GZCTF` environment variable.
 
 | Type | Description |
 | --- | --- |
