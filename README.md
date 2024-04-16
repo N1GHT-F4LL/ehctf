@@ -48,6 +48,8 @@ VPN: [OpenVPN](https://openvpn.net/client/) and [VPN Profile](https://drive.goog
 | Dynamic Attachments | Distribute attachment by team, ensuring that the number of attachments is greater than the number of teams |
 | Dynamic Container | Automatic flag generation, unique for each team |
 
+With Dynamic Container, you will get flag from GZCTF_FLAG environment variable
+
 ## Challenges List
 
 Challenge Name | Category | Difficulty | Tag | Author
