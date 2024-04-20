@@ -19,7 +19,7 @@ services:
             MYSQL_ROOT_PASSWORD: PASSWORD
             MYSQL_DATABASE: DATABASE
         volumes:
-            - ./dump.sql:/docker-entrypoint-initdb.d/dump.sql
+            - /challenges/web exploitation/too-much-admins/build/dump.sql:/docker-entrypoint-initdb.d/dump.sql
         ports:
             - "9906:3306"
     
