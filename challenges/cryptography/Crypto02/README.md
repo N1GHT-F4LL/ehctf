@@ -2,6 +2,6 @@
 
 **Author:** Pr0pylTh10ur4C1L
 
-**Difficulty:** Easy
+**Difficulty:** Normal
 
 **Category:** Cryptography
