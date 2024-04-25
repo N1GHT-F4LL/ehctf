@@ -12,6 +12,6 @@
 - Flag format: EHCCTF{technique_timestamp}
 - Trong đó:
   - Technique: tên kĩ thuật viết liền và viết thường tất cả kí tự
-  - Timestamp: YYYY-MM-DD<dấu cách>HH:MM:SS<dấu cách>PM/AM (ghi theo timestamp trên log, không phải system time)
+  - Timestamp: YYYY-MM-DD<dấu cách>HH:MM:SS (ghi theo system time trong log hoặc auto trừ 7)
 
-  - Ví dụ: EHCCTF{passwordspraying_30-02-2025 12:30:59 AM}
+  - Ví dụ: EHCCTF{passwordspraying_2025-02-30 12:30:59}
