@@ -1,0 +1,1 @@
+Flag: EHCCTF{2022-10-06 23:27:30_logo.png.decryptme}
