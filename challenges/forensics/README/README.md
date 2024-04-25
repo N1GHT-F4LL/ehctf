@@ -11,5 +11,5 @@ Là 1 chyên gia trong lĩnh vực forensics, bạn hãy giúp chúng tôi đi�
 <br><br>Lưu ý:<br>
 - Toàn bộ các challenge đều là 1 thuộc case sự cố và theo trình tự thời gian từ chall 1 tới chall 8<br>
 - Có thể làm các chall không theo thứ tự, tuy nhiên không khuyến khích vì quá trình điều tra sự cố chủ yếu dựa vào thời gian <br>
-- Đối với các chall yêu cầu timestamp, thời gian trong log Security, Sysmon, ... không phải là thời gian chính xác, hãy trừ đi 7h để ra thời gian chính xác trên hệ thống hoặc sẽ phải tìm phần "System Time" ở trong event. 
+- Đối với các chall yêu cầu nộp flag bằng timestamp, tinmestamp trong log Security, Sysmon, ... không phải là thời gian chính xác, hãy trừ đi 7h để ra thời gian chính xác trên hệ thống hoặc sẽ phải tìm phần "System Time" ở trong event để nộp vào flag. 
 - Nộp flag này để chứng tỏ bạn đã hiểu: <strong>EHCCTF{tôi_đã_hiểu}</strong>
