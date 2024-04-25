@@ -12,7 +12,7 @@
 
 - Flag format: EHCCTF{timestamp_name}
 - Trong đó:
-  - Timestamp: YYYY-MM-DD<dấu cách>HH:MM:SS 
+  - Timestamp: YYYY-MM-DD<dấu cách>HH:MM:SS (chú ý nếu là timestamp trong log Securiy hoặc Sysmon thì trừ đi 7h còn nếu dùng cách khác thì không cần)
   - Name: tên file viết thường tất cả kí tự
 
-- Ví dụ: EHCCTF{30-02-2025 12:30:59_helloworld.docs.encypted}
+- Ví dụ: EHCCTF{2025-02-30 12:30:59_helloworld.docs.encypted}
