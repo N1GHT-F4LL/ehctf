@@ -1,0 +1,4 @@
+Hint: Hãy trả lời câu 3 rồi quay lại vì dựa vào thời gian của câu 3 là thời điểm malware bắt đầu tấn công sang máy khác.
+
+Flag: EHCCTF{bruteforce_2022-10-06 10:27:52}
+

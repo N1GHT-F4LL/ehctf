@@ -1,2 +1,0 @@
-Flag: EHCCTF{bruteforce_2022-10-06 10:27:52}
-
