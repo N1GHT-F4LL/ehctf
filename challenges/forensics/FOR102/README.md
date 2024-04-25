@@ -1,4 +1,4 @@
-<h2>README</h2>
+<h2>FOR102</h2>
 <h4>Author: ka1t0_k1d</h4>
 <h4>Difficulty: Easy</h4>
 <h4>Category: Forensics</h4>
@@ -11,5 +11,5 @@
 - Trong đó:
   - File path: Full đường dẫn tuyệt đối và viết thường tất cả các kí tự
   - Timestamp: YYYY-MM-DD<dấu cách>HH:MM:SS
-- Ví dụ: EHCCTF{c:\windows\system32_30-02-2025 12:30:59}
+- Ví dụ: EHCCTF{c:\windows\system32_2025-02-30 12:30:59}
 
