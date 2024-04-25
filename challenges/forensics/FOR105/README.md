@@ -12,3 +12,4 @@
 - Flag format: EHCCTF{name}
 - Trong đó:
   - name: Tên service viết thường toàn bộ kí tự
+- Ví dụ: EHCCTF{updatewindows}
