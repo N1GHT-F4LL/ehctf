@@ -1,0 +1,2 @@
+Hint: Tiến trình với đường dẫn lạ là khi tên của chúng lạ hoặc mặc dù tên đúng nhưng nó nằm ở đường dẫn không đúng. Do đó, nếu nghi ngờ tiến trình nào, hãy search google để tìm đường dẫn chuẩn của nó. 
+Flag: EHCCTF{c:\users\lat\appdata\local\temp\hy\hydra.exe}

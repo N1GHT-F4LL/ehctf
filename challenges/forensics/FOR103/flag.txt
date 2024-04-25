@@ -1,1 +1,0 @@
-Flag: EHCCTF{c:\users\lat\appdata\local\temp\hy\hydra.exe}
