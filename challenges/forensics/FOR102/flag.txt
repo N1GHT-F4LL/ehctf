@@ -1,0 +1,1 @@
+Flag: EHCCTF{c:\users\lat\downloads\setup.exe_2022-10-05 15:10:51}
