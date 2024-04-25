@@ -4,7 +4,7 @@
 <h4>Category: Forensics</h4>
 
 
-<h2>Title description</h2>
+<h2>Tittle description</h2>
 Thời gian vừa qua, công ty DNV vừa bị tấn công mã hóa dữ liệu để lại 1 hậu quả rất nghiêm trọng tới hệ thống, ước tính thiệt hại hàng chục tỉ đồng. 
 Là 1 chyên gia trong lĩnh vực forensics, bạn hãy giúp chúng tôi điều tra nguyên nhân xảy ra sự cố này. 
 <br><br>Lưu ý:<br>
