@@ -1,6 +1,6 @@
 <h2>README</h2>
 <h4>Author: ka1t0_k1d</h4>
-<h4>Difficulty: Easy</h4>
+<h4>Difficulty: Medium</h4>
 <h4>Category: Forensics</h4>
 
 
