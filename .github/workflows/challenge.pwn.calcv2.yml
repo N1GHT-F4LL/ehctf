@@ -10,7 +10,7 @@ on:
 
 env:
   TYPE: binary exploitation
-  NAME: caculator-v2
+  NAME: calcv2
   REGISTRY: ghcr.io
 
 jobs:
