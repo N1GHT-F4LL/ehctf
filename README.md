@@ -1,4 +1,4 @@
-# EHCTF 2024 - HolaCTF 2024 Phase 2
+# EHCTF 2024
 
 Repository for maintaining and building challenge images for EHCTF 2024 - HolaCTF 2024 Phase 2.
 
